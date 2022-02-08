@@ -4,7 +4,7 @@
   "description": "calculates availability from calendar events",
   "main": "index.js",
   "scripts": {
-    "test": "tape \"tests/**/*.js\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
