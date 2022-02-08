@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hukevinxiaochen/freetime/issues"
   },
-  "homepage": "https://github.com/hukevinxiaochen/freetime#readme"
+  "homepage": "https://github.com/hukevinxiaochen/freetime#readme",
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
 }
