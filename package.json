@@ -1,0 +1,19 @@
+{
+  "name": "freetime",
+  "version": "0.0.1",
+  "description": "calculates availability from calendar events",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape \"tests/**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hukevinxiaochen/freetime.git"
+  },
+  "author": "Kevin Hu",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hukevinxiaochen/freetime/issues"
+  },
+  "homepage": "https://github.com/hukevinxiaochen/freetime#readme"
+}
